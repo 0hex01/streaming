@@ -1,1 +1,2 @@
 http://192.168.1.204:8080/stream.mp3
+https://tee-sometimes-longest-optical.trycloudflare.com/stream.mp3
